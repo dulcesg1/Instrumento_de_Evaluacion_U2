@@ -46,10 +46,10 @@
   * > Desafío
   * > Prueba
 * Lección 3
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Leccion_3_Export)
+  * > [Laboratorio](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Laboratorio_3_Export)
+  * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Challenge_3_Export)
+  * > [Prueba](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/blob/main/Quiz_Leccion_3.PNG)
 * Lección 4
   * > Tutorial
   * > Laboratorio
