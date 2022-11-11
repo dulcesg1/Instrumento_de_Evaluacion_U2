@@ -36,15 +36,15 @@
 ## Código Fuente
 
 * Lección 1
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U1_CV/tree/master/U1_Leccion1/Assets)
+  * > [Laboratorio]
+  * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U1_CV/tree/master/U1_Desafio1/Assets)
+  * > [Prueba]
 * Lección 2
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U1_CV/tree/master/U2_Leccion2/Assets)
+  * > [Laboratorio](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U1_CV/tree/master/U2_Lab2/Assets)
+  * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U1_CV/tree/master/U2_Desafio2/Assets)
+  * > [Prueba]
 * Lección 3
   * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Leccion_3_Export)
   * > [Laboratorio](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Laboratorio_3_Export)
@@ -56,10 +56,10 @@
   * > Desafío
   * > Prueba
 * Lección 5
-  * > Tutorial
+  * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Leccion_5_Export)
   * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Challenge_5_Export)
+  * > [Prueba](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/blob/main/Quiz_Leccion_5.PNG)
 * VideoJuego
 
 ## Planificación
