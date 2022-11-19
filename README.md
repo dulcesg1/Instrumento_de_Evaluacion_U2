@@ -1,7 +1,9 @@
 # Instrumento_de_Evaluacion_U2
 # Creación de Video Juego
 <p align="center">
-    <img src="https://www.elindependiente.com/wp-content/uploads/2017/02/the-walking-dead-zombies-980x550.jpg" alt="Logo" width=1200 height=300>
+    
+![image](https://user-images.githubusercontent.com/72763529/202826985-d0c760d8-acb1-46a3-bdc8-f473c6c0fbad.png)
+
 
   <p align="center">
     Short description
@@ -24,21 +26,30 @@
 
 ## Introducción
 
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
-- Pantallas de Juego
-- Plan de creación de VideoJuego.
+- Nombre del proyecto: **Farm Invasion
+- Objetivo: Eliminar a los enemigos que se invaden la granja, para ponerte a salvo de los invasores a tiempo
+- Plataforma 3D 
+- Género: Aventura
+- Clasificación: Apoto para mayores de 12 años 
+- Personajes: Player, Enemigos/invasores
+- Escenario: Una granja.
+- Historia: Es una oleada de murcielagos y fantasmas que llegan a la granja de  
+- Personajes:Zenon: player, Enemigos: fantasmas murcielagos
+- Reglas de Juego: 
+    - 1. Sobrevivir más de 90 segundos 
+    - 2. Si un enemigo se te acerca, se acortará la vida
+    - 3. Tienes que disparar a los enemigos para que mueran
+- Pantallas de Juego:
+    -![image](https://user-images.githubusercontent.com/72763529/202826702-77b359a0-4904-4936-af96-af376d68f1fc.png)
+
+- Plan de creación de VideoJuego:
 
 ## Código Fuente
 
 * Lección 1
-  * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U1_CV/tree/master/U1_Leccion1/Assets)
+  * > [Tutorial]
   * > [Laboratorio]
-  * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U1_CV/tree/master/U1_Desafio1/Assets)
+  * > [Desafío]
   * > [Prueba]
 * Lección 2
   * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U1_CV/tree/master/U2_Leccion2/Assets)
@@ -53,8 +64,8 @@
 * Lección 4
   * > Tutorial
   * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Challenge_4_Export)
+  * > [Prueba](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/blob/main/Quiz_Leccion_4.png)
 * Lección 5
   * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Leccion_5_Export)
   * > Laboratorio
@@ -64,10 +75,10 @@
 
 ## Planificación
 
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
+
 
 ## Autores
-Bill Gates & Steve Jobs
+Dulce María Silva Gutiérrez
 
 ## Copyright
 Derechos Reservados 2022
