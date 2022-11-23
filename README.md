@@ -1,8 +1,9 @@
 # Instrumento_de_Evaluacion_U2
 # Creación de Video Juego
 <p align="center">
-    
-![image](https://user-images.githubusercontent.com/72763529/202826985-d0c760d8-acb1-46a3-bdc8-f473c6c0fbad.png)
+    ![image](https://user-images.githubusercontent.com/72763529/203613017-268bdb0d-b8fc-4c7f-b6d7-f9c5923289a9.png)
+
+
 
 
   <p align="center">
@@ -40,7 +41,7 @@
     - 2. Si un enemigo se te acerca, se acortará la vida
     - 3. Tienes que disparar a los enemigos para que mueran
 - Pantallas de Juego:
-    -![image](https://user-images.githubusercontent.com/72763529/202826702-77b359a0-4904-4936-af96-af376d68f1fc.png)
+    
 
 - Plan de creación de VideoJuego:
 
