@@ -1,12 +1,10 @@
 # Instrumento_de_Evaluacion_U2
 # Creación de Video Juego
+<p align="center"> 
+
+![image](https://user-images.githubusercontent.com/72763529/203613017-268bdb0d-b8fc-4c7f-b6d7-f9c5923289a9.png)
+
 <p align="center">
-    ![image](https://user-images.githubusercontent.com/72763529/203613017-268bdb0d-b8fc-4c7f-b6d7-f9c5923289a9.png)
-
-
-
-
-  <p align="center">
     Short description
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
