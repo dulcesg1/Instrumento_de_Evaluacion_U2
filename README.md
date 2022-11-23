@@ -61,13 +61,13 @@
   * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Challenge_3_Export)
   * > [Prueba](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/blob/main/Quiz_Leccion_3.PNG)
 * Lección 4
-  * > Tutorial
-  * > Laboratorio
+  * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Leccion_4_Export)
+  * > [Laboratorio](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Laboratorio_4_Export)
   * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Challenge_4_Export)
   * > [Prueba](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/blob/main/Quiz_Leccion_4.png)
 * Lección 5
   * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Leccion_5_Export)
-  * > Laboratorio
+  * > [Laboratorio](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Laboratorio_5_Export)
   * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Challenge_5_Export)
   * > [Prueba](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/blob/main/Quiz_Leccion_5.PNG)
 * VideoJuego
