@@ -25,7 +25,7 @@
 
 ## Introducción
 
-- Nombre del proyecto: **Castle in trouble
+- Nombre del proyecto:  **Castle in trouble
 - Objetivo: Eliminar a los enemigos que se invaden la las afueras del castillo, para ponerte a salvo de los invasores a tiempo
 - Plataforma 3D 
 - Género: Aventura
