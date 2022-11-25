@@ -25,15 +25,15 @@
 
 ## Introducción
 
-- Nombre del proyecto: **Farm Invasion
-- Objetivo: Eliminar a los enemigos que se invaden la granja, para ponerte a salvo de los invasores a tiempo
+- Nombre del proyecto: **Castle in trouble
+- Objetivo: Eliminar a los enemigos que se invaden la las afueras del castillo, para ponerte a salvo de los invasores a tiempo
 - Plataforma 3D 
 - Género: Aventura
 - Clasificación: Apoto para mayores de 12 años 
 - Personajes: Player, Enemigos/invasores
-- Escenario: Una granja.
-- Historia: Es una oleada de murcielagos y fantasmas que llegan a la granja de  
-- Personajes:Zenon: player, Enemigos: fantasmas murcielagos
+- Escenario: Un bosque con un castillo.
+- Historia: Es una oleada de murcielagos y fantasmas que llegan al castillo para terminar con la vida de quien se punga a su paso  
+- Personajes:Will: player, Enemigos: fantasmas, murcielagos
 - Reglas de Juego: 
     - 1. Sobrevivir más de 90 segundos 
     - 2. Si un enemigo se te acerca, se acortará la vida
