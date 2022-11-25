@@ -31,9 +31,9 @@
 - Género: Aventura
 - Clasificación: Apoto para mayores de 12 años 
 - Personajes: Player, Enemigos/invasores
-- Escenario: Un bosque con un castillo.
-- Historia: Es una oleada de murcielagos y fantasmas que llegan al castillo para terminar con la vida de quien se punga a su paso  
-- Personajes:Will: player, Enemigos: fantasmas, murcielagos
+- Escenario: Un castillo dentro de un bosque.
+- Historia: Es una oleada de fantasmas que llegan al castillo para terminar con la vida de quien se punga a su paso  
+- Personajes:Will: player, Enemigos: fantasmas
 - Reglas de Juego: 
     - 1. Sobrevivir más de 90 segundos 
     - 2. Si un enemigo se te acerca, se acortará la vida
