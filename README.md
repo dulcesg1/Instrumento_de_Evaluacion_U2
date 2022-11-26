@@ -7,6 +7,7 @@
 <p align="center">
     Short description
     <br>
+    Will es enviado a un bosque donde se encuentra un castillo, pero cuando llega ahí se da cuenta que esta invadido por fantasmas, para salir con vida tiene que matar     a todos los enemigos que loo ataquen. 
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
     <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
@@ -32,12 +33,17 @@
 - Clasificación: Apoto para mayores de 12 años 
 - Personajes: Player, Enemigos/invasores
 - Escenario: Un castillo dentro de un bosque.
-- Historia: Es una oleada de fantasmas que llegan al castillo para terminar con la vida de quien se punga a su paso  
+- Historia: Es una oleada de fantasmas que llegan al castillo para terminar con la vida de quien se punga a su paso.  
 - Personajes:Will: player, Enemigos: fantasmas
 - Reglas de Juego: 
-    - 1. Sobrevivir más de 90 segundos 
-    - 2. Si un enemigo se te acerca, se acortará la vida
-    - 3. Tienes que disparar a los enemigos para que mueran
+    - 1. Eliminar 15 enemigos, en el primer nivel. (En el siguiente nivel tendrá que eliminar el doble de enemigos) 
+    - 2. Si un enemigo se te acerca, se acortará la vida.(Solo se podrán acercar 5 enemigos) 
+    - 3. Tienes que disparar a los enemigos para que mueran. (El enemigo debe recibir al menos 3 disparos para morir)
+    - 4. Si mueren todos los enemigos en menos de 1:30, podrá pasar de nivel
+    - 5. Cada que elimine a un enemigo ganará 20 puntos
+    - 6. El usuario podrá recuperar vida  con ayuda de un powerup
+    
+    
 - Pantallas de Juego:
     
 
