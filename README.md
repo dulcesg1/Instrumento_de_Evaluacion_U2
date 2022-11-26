@@ -7,7 +7,7 @@
 <p align="center">
     Short description
     <br>
-    Will es enviado a un bosque donde se encuentra un castillo, pero cuando llega ahí se da cuenta que esta invadido por fantasmas, para salir con vida tiene que matar     a todos los enemigos que loo ataquen. 
+    Will es un soldado que fue enviado a un bosque donde se encuentra un castillo, pero cuando llega ahí se da cuenta que esta invadido por fantasmas, para salir con vida tiene que matar     a todos los enemigos que loo ataquen. 
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
     <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
@@ -34,7 +34,7 @@
 - Personajes: Player, Enemigos/invasores
 - Escenario: Un castillo dentro de un bosque.
 - Historia: Es una oleada de fantasmas que llegan al castillo para terminar con la vida de quien se punga a su paso.  
-- Personajes:Will: player, Enemigos: fantasmas
+- Personajes: Will: player, Enemigos: fantasmas
 - Reglas de Juego: 
     - 1. Eliminar 15 enemigos, en el primer nivel. (En el siguiente nivel tendrá que eliminar el doble de enemigos) 
     - 2. Si un enemigo se te acerca, se acortará la vida.(Solo se podrán acercar 5 enemigos) 
