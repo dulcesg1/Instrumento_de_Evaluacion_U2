@@ -52,15 +52,15 @@
 ## Código Fuente
 
 * Lección 1
-  * > [Tutorial]
-  * > [Laboratorio]
-  * > [Desafío]
-  * > [Prueba]
+  * > Tutorial
+  * > Laboratorio
+  * > Desafío
+  * > Prueba
 * Lección 2
-  * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U1_CV/tree/master/U2_Leccion2/Assets)
-  * > [Laboratorio](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U1_CV/tree/master/U2_Lab2/Assets)
-  * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U1_CV/tree/master/U2_Desafio2/Assets)
-  * > [Prueba]
+  * > Tutorial
+  * > Laboratorio
+  * > Desafío
+  * > Prueba
 * Lección 3
   * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Leccion_3_Export)
   * > [Laboratorio](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Laboratorio_3_Export)
