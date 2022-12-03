@@ -7,7 +7,7 @@
 <p align="center">
     Short description
     <br>
-    Will es un soldado que fue enviado a un bosque donde se encuentra un castillo, pero cuando llega ahí se da cuenta que esta invadido por fantasmas, para salir con vida tiene que matar     a todos los enemigos que loo ataquen. 
+    Will se ha perdido en un bosque donde se encuentra un castillo, cuando llega ahí se da cuenta que hay muchosfantasmas, para salir con vida tiene que matarlos en el menor tiempo posible. El siguiente nivel los enemigos se dub¿plicarán y la oportunidad de salvarse se complicará. 
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
     <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
@@ -33,7 +33,7 @@
 - Clasificación: Apoto para mayores de 12 años 
 - Personajes: Player, Enemigos/invasores
 - Escenario: Un castillo dentro de un bosque.
-- Historia: Es una oleada de fantasmas que llegan al castillo para terminar con la vida de quien se punga a su paso.  
+- Historia: Es una oleada de fantasmas que llegan al bosque y rodean el castillo que hay dentro para terminar con la vida de quien se ponga a su paso. Y Will un soldado que se perdió por accidente en un este bosque y esta tratando de sobrevivir.
 - Personajes: Will: player, Enemigos: fantasmas
 - Reglas de Juego: 
     - 1. Eliminar 15 enemigos, en el primer nivel. (En el siguiente nivel tendrá que eliminar el doble de enemigos) 
@@ -79,6 +79,7 @@
 * VideoJuego
 
 ## Planificación
+![image](https://user-images.githubusercontent.com/72763529/205417426-72cc652d-b8d1-48d6-80bd-b95285b7f375.png)
 
 
 
