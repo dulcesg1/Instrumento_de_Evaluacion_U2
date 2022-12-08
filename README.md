@@ -7,7 +7,7 @@
 <p align="center">
     Short description
     <br>
-    Will se ha perdido en un bosque donde se encuentra un castillo, cuando llega ahí se da cuenta que hay muchosfantasmas, para salir con vida tiene que matarlos en el menor tiempo posible. El siguiente nivel los enemigos se dub¿plicarán y la oportunidad de salvarse se complicará. 
+    Will se ha perdido en un bosque donde se encuentra un castillo, cuando llega ahí se da cuenta que hay muchos fantasmas, y otros enemigos que lo atacan para salir con vida tiene que matarlos en el menor tiempo posible. El siguiente nivel los enemigos se duplicarán y la oportunidad de salvarse se complicará. 
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
     <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
@@ -33,15 +33,14 @@
 - Clasificación: Apoto para mayores de 12 años 
 - Personajes: Player, Enemigos/invasores
 - Escenario: Un castillo dentro de un bosque.
-- Historia: Es una oleada de fantasmas que llegan al bosque y rodean el castillo que hay dentro para terminar con la vida de quien se ponga a su paso. Y Will un soldado que se perdió por accidente en un este bosque y esta tratando de sobrevivir.
-- Personajes: Will: player, Enemigos: fantasmas
+- Historia: Es una oleada de enemigos que llegan al bosque y rodean el castillo que hay dentro para terminar con la vida de quien se ponga a su paso. Y Will un soldado que se perdió por accidente en un este bosque y esta tratando de sobrevivir.
+- Personajes: Will: player, Enemigos: fantasmas, murcielagos, conejos, slimes
 - Reglas de Juego: 
     - 1. Eliminar 15 enemigos, en el primer nivel. (En el siguiente nivel tendrá que eliminar el doble de enemigos) 
     - 2. Si un enemigo se te acerca, se acortará la vida.(Solo se podrán acercar 5 enemigos) 
     - 3. Tienes que disparar a los enemigos para que mueran. (El enemigo debe recibir al menos 3 disparos para morir)
-    - 4. Si mueren todos los enemigos en menos de 1:30, podrá pasar de nivel
-    - 5. Cada que elimine a un enemigo ganará 20 puntos
-    - 6. El usuario podrá recuperar vida  con ayuda de un powerup
+    - 4. Cada que elimine a un enemigo ganará 20 puntos
+    - 5. El usuario podrá recuperar vida  con ayuda de un powerup
     
     
 - Pantallas de Juego:
