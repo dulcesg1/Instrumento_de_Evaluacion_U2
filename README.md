@@ -20,6 +20,7 @@
 
 - [Introducción](#introducción)
 - [Código Fuente](#código-fuente)
+- [Despliegue](#despliegue)
 - [Planificación](#planificación)
 - [Autores](#autores)
 - [Copyright](#copyright)
@@ -27,9 +28,9 @@
 
 ## Introducción
 
-- Nombre del proyecto:  **Castle in trouble
+- Nombre del proyecto:  Castle in trouble
 - Objetivo: Eliminar a los enemigos que se invaden la las afueras del castillo, para ponerte a salvo de los invasores a tiempo
-- Plataforma 3D 
+- Plataforma Desktop 
 - Género: Aventura
 - Clasificación: Apoto para mayores de 12 años 
 - Personajes: Player, Enemigos/invasores
@@ -37,13 +38,15 @@
 - Historia: Es una oleada de enemigos que llegan al bosque y rodean el castillo que hay dentro para terminar con la vida de quien se ponga a su paso. Y Will un soldado que se perdió por accidente en un este bosque y esta tratando de sobrevivir.
 - Personajes: Will: player, Enemigos: fantasmas, murcielagos, conejos, slimes
 - Reglas de Juego: 
-    - 1. Eliminar 15 enemigos, en el primer nivel. (En el siguiente nivel tendrá que eliminar el doble de enemigos) 
-    - 2. Si un enemigo se te acerca, se acortará la vida.(Solo se podrán acercar 5 enemigos) 
-    - 3. Tienes que disparar a los enemigos para que mueran. (El enemigo debe recibir al menos 3 disparos para morir)
-    - 4. Cada que elimine a un enemigo ganará 20 puntos
-    - 5. El usuario podrá recuperar vida  con ayuda de un powerup
+   - Eliminar 12 enemigos, en el primer nivel(2 c,  3m, 3s, 4f). (En el siguiente nivel tendrá que eliminar la misma cantidad de enemigos, pero tardarán más en morir)
+   - Si un enemigo se te acerca, se acortará la vida.(Solo se podrán acercar 5 enemigos) 
+   - Tienes que disparar a los enemigos para que mueran. (El enemigo debe recibir al menos 4 disparos para morir)
+   - Cada que elimine a un enemigo ganará 20 puntos fantasma, 15 puntos slime, 10 puntos conejo, 30 puntos murciélago
+   - El usuario podrá recuperar vida siempre y cuando tenga más de 100 puntos, mismos que se le restarán a su puntuación
+   - El usuario podrá aumentar el daño de su arma solo si tiene más de 500 puntos para pagarlo
+
     
-    
+
 - Pantallas de Juego:
 ![image](https://user-images.githubusercontent.com/72763529/207678823-dc0bbe38-d4cb-4c66-aeac-fa6f1a9972fc.png)
 
@@ -73,20 +76,23 @@
   * > [Laboratorio](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Laboratorio_3_Export)
   * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Challenge_3_Export)
   * > [Prueba](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/blob/main/Quiz_Leccion_3.PNG)
-  * > [Vídeo de explicación challenge]()
+ 
 * Lección 4
   * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Leccion_4_Export)
   * > [Laboratorio](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Laboratorio_4_Export)
   * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Challenge_4_Export)
   * > [Prueba](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/blob/main/Quiz_Leccion_4.png)
-  * > [Vídeo de explicación challenge]()
+  
 * Lección 5
   * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Leccion_5_Export)
   * > [Laboratorio](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Laboratorio_5_Export)
   * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Challenge_5_Export)
   * > [Prueba](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/blob/main/Quiz_Leccion_5.PNG)
-  * > [Vídeo de explicación challenge]()
+
 * VideoJuego
+
+## Despliegue
+[Despliegue](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Despliegue_desktop)
 
 ## Planificación
 ![image](https://user-images.githubusercontent.com/72763529/205417426-72cc652d-b8d1-48d6-80bd-b95285b7f375.png)
