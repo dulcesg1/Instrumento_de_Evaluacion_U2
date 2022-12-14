@@ -2,7 +2,8 @@
 # Creación de Video Juego
 <p align="center"> 
 
-![image](https://user-images.githubusercontent.com/72763529/203613017-268bdb0d-b8fc-4c7f-b6d7-f9c5923289a9.png)
+![image](https://user-images.githubusercontent.com/72763529/207678668-05e108aa-9232-4317-aad3-e3ba7bec9000.png)
+
 
 <p align="center">
     Short description
@@ -44,7 +45,14 @@
     
     
 - Pantallas de Juego:
-    
+  ![image](https://user-images.githubusercontent.com/72763529/207678823-dc0bbe38-d4cb-4c66-aeac-fa6f1a9972fc.png)
+
+![image](https://user-images.githubusercontent.com/72763529/207678885-307d2c80-f772-4484-90d1-7c53fd1d6893.png)
+  
+![image](https://user-images.githubusercontent.com/72763529/207678982-fe2916bf-79af-4b9e-8721-3cea3d36b4fb.png)
+
+![image](https://user-images.githubusercontent.com/72763529/207679079-a3eb3e73-2c2c-484c-822d-3a4ff37014d8.png)
+
 
 - Plan de creación de VideoJuego:
 
@@ -65,16 +73,19 @@
   * > [Laboratorio](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Laboratorio_3_Export)
   * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Challenge_3_Export)
   * > [Prueba](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/blob/main/Quiz_Leccion_3.PNG)
+  * > [Vídeo de explicación challenge]()
 * Lección 4
   * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Leccion_4_Export)
   * > [Laboratorio](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Laboratorio_4_Export)
   * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Challenge_4_Export)
   * > [Prueba](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/blob/main/Quiz_Leccion_4.png)
+  * > [Vídeo de explicación challenge]()
 * Lección 5
   * > [Tutorial](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Leccion_5_Export)
   * > [Laboratorio](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Laboratorio_5_Export)
   * > [Desafío](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/tree/main/Challenge_5_Export)
   * > [Prueba](https://github.com/dulcesg1/Instrumento_de_Evaluacion_U2/blob/main/Quiz_Leccion_5.PNG)
+  * > [Vídeo de explicación challenge]()
 * VideoJuego
 
 ## Planificación
