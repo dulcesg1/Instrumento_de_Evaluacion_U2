@@ -45,7 +45,7 @@
     
     
 - Pantallas de Juego:
-  ![image](https://user-images.githubusercontent.com/72763529/207678823-dc0bbe38-d4cb-4c66-aeac-fa6f1a9972fc.png)
+![image](https://user-images.githubusercontent.com/72763529/207678823-dc0bbe38-d4cb-4c66-aeac-fa6f1a9972fc.png)
 
 ![image](https://user-images.githubusercontent.com/72763529/207678885-307d2c80-f772-4484-90d1-7c53fd1d6893.png)
   
